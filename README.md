@@ -3,7 +3,7 @@
 </p>
 <h1 align="center">Syenzkyy OFC</h1>
 <p align="center">
-  <a href="https://github.com/Syenzkyy"><img src="http://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&multiline=false&lines=Syenzky+BOT+Multi+Device;;Base+ori+by+BochilGaming;Recode+By+Fangz;2ND+Recode+By+Syenzky+OFC;Give+star+and+forks+this+Repo+:D;Follow+My+Github" alt="UwU">
+  <a href="https://github.com/Syenzkyy"><img src="http://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&multiline=false&lines=Syenzky+BOT+Multi+Device;;By+Syenzky+OFC;Give+star+and+forks+this+Repo+:D;Follow+My+Github" alt="UwU">
 </p>
 
 ---------
